@@ -78,3 +78,12 @@
 | 📊 IPL Enterprise Analytics | Python Data Analytics Project |
 | 📈 Sales Dashboard | Excel Dashboard with KPI & Pivot Charts |
 | 🗄 Ecommerce SQL | SQL Database Project |
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/piyushdubey26/piyushdubey26/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
