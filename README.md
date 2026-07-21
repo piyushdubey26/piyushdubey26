@@ -1,7 +1,29 @@
-# Hi 👋, I'm Piyush Dubey
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 Full Stack Developer
+👋 Hi, I'm Piyush Dubey
 
-📊 Data Analytics Enthusiast
+🚀 Animated Typing
 
-☁️ Learning Cloud Computing & AI
+Portfolio • LinkedIn • Email
+
+Professional Banner
+
+About Me
+
+Tech Stack Icons
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Featured Projects
+
+Achievements
+
+Contribution Snake
+
+Visitor Counter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
