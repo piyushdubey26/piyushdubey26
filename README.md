@@ -50,3 +50,31 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=piyushdubey26&theme=tokyonight&hide_border=true"/>
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=piyushdubey26&theme=tokyonight&row=1&column=6"/>
+
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushdubey26&theme=tokyo-night"/>
+
+</p>
+##👀 Visitor Counter
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=piyushdubey26&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛒 ShopSphere Ecommerce | Full Stack MERN Ecommerce Platform |
+| 📊 IPL Enterprise Analytics | Python Data Analytics Project |
+| 📈 Sales Dashboard | Excel Dashboard with KPI & Pivot Charts |
+| 🗄 Ecommerce SQL | SQL Database Project |
