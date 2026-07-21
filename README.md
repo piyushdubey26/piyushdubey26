@@ -26,22 +26,34 @@
 
 ## 🌐 Connect With Me
 
+---
+
+# 💻 Tech Stack
+
 <p align="center">
 
-<a href="https://linkedin.com/in/piyush-dubey-70183429a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,tailwind,postman&perline=7"/>
 
-<a href="https://github.com/piyushdubey26">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</p>
 
-<a href="mailto:piyushdubey447@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://piyushdubey26.github.io/portfolio/about.html">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushdubey26&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdubey26&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=piyushdubey26&theme=tokyonight"/>
 
 </p>
