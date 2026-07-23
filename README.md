@@ -86,3 +86,25 @@
 <img src="https://raw.githubusercontent.com/piyushdubey26/piyushdubey26/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+### 🚀 Daily GitHub Update
+
+## 📅 Current Focus
+
+- 🚀 Building ShopSphere Ecommerce
+- 📚 Preparing for TCS Prime 2026
+- ☁️ Learning Cloud & DevOps
+- 💻 Improving DSA & MERN Stack
+
+## 🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+## ✨ Upcoming Features
+
+- Wishlist
+- Order Tracking
+- Admin Analytics
+- Email Notifications
