@@ -95,6 +95,14 @@
 - ☁️ Learning Cloud & DevOps
 - 💻 Improving DSA & MERN Stack
 
+## ✨ Upcoming Features
+
+- Wishlist
+- Order Tracking
+- Admin Analytics
+- Email Notifications
+
+
 ## 🌱 Currently Learning
 
 - React.js
@@ -102,9 +110,3 @@
 - Express.js
 - MongoDB
 - Docker
-## ✨ Upcoming Features
-
-- Wishlist
-- Order Tracking
-- Admin Analytics
-- Email Notifications
