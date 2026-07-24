@@ -88,6 +88,15 @@
 </p>
 ### 🚀 Daily GitHub Update
 
+## 🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+
+
 ## 📅 Current Focus
 
 - 🚀 Building ShopSphere Ecommerce
