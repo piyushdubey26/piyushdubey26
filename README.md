@@ -103,10 +103,3 @@
 - Email Notifications
 
 
-## 🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Docker
