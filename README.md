@@ -31,12 +31,15 @@
 
 </div>
 
-👨‍💻 About Me
+---
 
-Hi, I'm Piyush Dubey — a B.Tech Computer Science Engineering student at Babu Banarasi Das University, graduating in 2027.
+# 👨‍💻 About Me
 
-I enjoy building practical, user-focused applications and continuously improving my skills across full-stack development, data analytics, cloud computing, AI, databases, and problem solving.
+Hi, I'm **Piyush Dubey** — a **B.Tech Computer Science Engineering student at Babu Banarasi Das University**, graduating in **2027**.
 
+I enjoy building practical, user-focused applications and continuously improving my skills across **full-stack development, data analytics, cloud computing, AI, databases, and problem solving**.
+
+```javascript
 const piyush = {
     name: "Piyush Dubey",
     education: "B.Tech Computer Science Engineering",
@@ -104,8 +107,11 @@ const piyush = {
 
     goal: "Software Engineer 🚀"
 };
+```
 
-🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -127,129 +133,70 @@ const piyush = {
 
 </div>
 
-💻 Tech Stack
+---
 
-🌐 Frontend
+# 💻 Tech Stack
 
+### 🌐 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite"/>
 </p>
 
-⚙️ Backend
-
+### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php"/>
 </p>
 
-🗄️ Databases
-
+### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-🐍 Programming Languages
-
+### 🐍 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 </p>
 
-☁️ Tools, Cloud & Platforms
-
+### ☁️ Tools, Cloud & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,firebase,aws"/>
 </p>
 
-🚀 Quick Highlights
+---
 
-💻 Full Stack / MERN Developer
+# 🚀 Quick Highlights
 
-📊 Data Analytics Enthusiast
+- 💻 Full Stack / MERN Developer
+- 📊 Data Analytics Enthusiast
+- ☁️ Cloud Computing Learner
+- 🤖 Exploring AI-powered applications
+- 🧠 Strengthening DSA & problem-solving skills
+- 🗄️ Working with SQL and NoSQL databases
+- 🚀 Building real-world applications
+- 💼 Open to internships and software engineering opportunities
+- 🤝 Interested in collaboration and open-source development
 
-☁️ Cloud Computing Learner
+---
 
-🤖 Exploring AI-powered applications
-
-🧠 Strengthening DSA & problem-solving skills
-
-🗄️ Working with SQL and NoSQL databases
-
-🚀 Building real-world applications
-
-💼 Open to internships and software engineering opportunities
-
-🤝 Interested in collaboration and open-source development
-
-🌟 Featured Projects
+# 🌟 Featured Projects
 
 <div align="center">
 
-Project
-
-Description
-
-Tech Stack
-
-Status
-
-💰 BudgetWise AI
-
-AI-powered personal finance & expense tracking application with smart analytics
-
-MERN • Gemini AI • Chart.js
-
-🚧 In Progress
-
-🛒 ShopSphere Ecommerce
-
-Full-featured e-commerce platform with authentication, payments and admin workflows
-
-MERN • Redux Toolkit • Razorpay
-
-🚀 Building
-
-🏥 Hospital Management System
-
-Hospital platform covering patients, doctors, appointments, records, authentication and admin workflows
-
-PHP • MySQL • JavaScript • Socket.IO
-
-🚧 In Development
-
-🏏 IPL Enterprise Analytics
-
-Cricket data analysis and visualization project
-
-Python • Pandas • Matplotlib
-
-✅ Completed
-
-📈 Sales Analytics Dashboard
-
-Business KPI dashboard for analysis and reporting
-
-Excel • Power Query
-
-✅ Completed
-
-🗄️ Ecommerce SQL Project
-
-Relational database design with practical and advanced SQL queries
-
-MySQL
-
-✅ Completed
-
-✈️ Travel Booking Website
-
-Travel-booking style application with hotel workflows and admin functionality
-
-HTML • CSS • JavaScript • PHP
-
-🚧 Project
+| Project | Description | Tech Stack | Status |
+|:---:|:---|:---|:---:|
+| 💰 **BudgetWise AI** | AI-powered personal finance & expense tracking application with smart analytics | MERN • Gemini AI • Chart.js | 🚧 In Progress |
+| 🛒 **ShopSphere Ecommerce** | Full-featured e-commerce platform with authentication, payments and admin workflows | MERN • Redux Toolkit • Razorpay | 🚀 Building |
+| 🏥 **Hospital Management System** | Hospital platform covering patients, doctors, appointments, records, authentication and admin workflows | PHP • MySQL • JavaScript • Socket.IO | 🚧 In Development |
+| 🏏 **IPL Enterprise Analytics** | Cricket data analysis and visualization project | Python • Pandas • Matplotlib | ✅ Completed |
+| 📈 **Sales Analytics Dashboard** | Business KPI dashboard for analysis and reporting | Excel • Power Query | ✅ Completed |
+| 🗄️ **Ecommerce SQL Project** | Relational database design with practical and advanced SQL queries | MySQL | ✅ Completed |
+| ✈️ **Travel Booking Website** | Travel-booking style application with hotel workflows and admin functionality | HTML • CSS • JavaScript • PHP | 🚧 Project |
 
 </div>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -263,7 +210,9 @@ HTML • CSS • JavaScript • PHP
 
 </div>
 
-📈 Contribution Graph
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -271,7 +220,9 @@ HTML • CSS • JavaScript • PHP
 
 </div>
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -279,7 +230,9 @@ HTML • CSS • JavaScript • PHP
 
 </div>
 
-📋 GitHub Profile Summary
+---
+
+# 📋 GitHub Profile Summary
 
 <div align="center">
 
@@ -297,7 +250,9 @@ HTML • CSS • JavaScript • PHP
 
 </div>
 
-📈 Contribution Overview
+---
+
+# 📈 Contribution Overview
 
 <div align="center">
 
@@ -305,65 +260,53 @@ HTML • CSS • JavaScript • PHP
 
 </div>
 
-💼 Experience
+---
 
-🏢 Full Stack MERN Training
+# 💼 Experience
 
-BBD University × GRAS Tech
+### 🏢 Full Stack MERN Training
+**BBD University × GRAS Tech**
 
-2025
+**2025**
 
-Full-stack MERN application development
+- Full-stack MERN application development
+- REST API development
+- JWT-based authentication
+- MongoDB database design
+- Application deployment using Vercel
 
-REST API development
+### 📊 Data Analytics Experience
 
-JWT-based authentication
+- Data cleaning and preparation
+- Excel dashboards
+- SQL analysis
+- Business insights
+- Reporting and visualization
 
-MongoDB database design
+### 🏏 IPL Operations & Management
 
-Application deployment using Vercel
+**Lucknow IPL Season**
 
-📊 Data Analytics Experience
+- Team management
+- Event operations
+- Customer coordination
+- Ticket management
+- Leadership and on-ground execution
 
-Data cleaning and preparation
+---
 
-Excel dashboards
+# 📜 Certifications & Learning
 
-SQL analysis
+- 🏆 Full Stack MERN Development
+- 🏆 Data Analytics
+- 🏆 Python Programming
+- 🏆 SQL Fundamentals
+- ☁️ Cloud Computing — Currently Learning
+- 🤖 AI / ML — Exploring Practical Applications
 
-Business insights
+---
 
-Reporting and visualization
-
-🏏 IPL Operations & Management
-
-Lucknow IPL Season
-
-Team management
-
-Event operations
-
-Customer coordination
-
-Ticket management
-
-Leadership and on-ground execution
-
-📜 Certifications & Learning
-
-🏆 Full Stack MERN Development
-
-🏆 Data Analytics
-
-🏆 Python Programming
-
-🏆 SQL Fundamentals
-
-☁️ Cloud Computing — Currently Learning
-
-🤖 AI / ML — Exploring Practical Applications
-
-💻 Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
@@ -389,47 +332,46 @@ Leadership and on-ground execution
 
 </div>
 
-Replace the # links above with your actual coding-profile URLs when you have them.
+---
 
-🎯 2026 Goals
+# 🎯 2026 Goals
 
-🎯 Crack a strong Software Engineering role
+- 🎯 Crack a strong Software Engineering role
+- 🚀 Complete and improve **BudgetWise AI**
+- 🛒 Build **ShopSphere V2**
+- 🧠 Strengthen DSA and problem solving
+- ☁️ Learn AWS, Docker and Kubernetes
+- 🏗️ Understand System Design fundamentals
+- 🤖 Build more practical AI-powered applications
+- 🤝 Contribute to open source
+- 📈 Maintain a consistent GitHub contribution history
 
-🚀 Complete and improve BudgetWise AI
+---
 
-🛒 Build ShopSphere V2
+# 🧠 Currently Working On
 
-🧠 Strengthen DSA and problem solving
+| Project / Focus | Progress |
+|:---|:---:|
+| 💰 **BudgetWise AI** | 🟢 **90%** |
+| 🛒 **ShopSphere V2** | 🟢 **80%** |
+| 📚 **DSA Preparation** | 🟡 **75%** |
+| 🤖 **AI Projects** | 🟡 **70%** |
+| ☁️ **AWS & DevOps** | 🟠 **50%** |
 
-☁️ Learn AWS, Docker and Kubernetes
+---
 
-🏗️ Understand System Design fundamentals
+# 🗺️ Learning Journey
 
-🤖 Build more practical AI-powered applications
+| Year | Focus |
+|:---:|:---|
+| **2023** | 🌱 Started Programming |
+| **2024** | 🌐 Web Development |
+| **2025** | ⚛️ MERN Stack + 📊 Data Analytics |
+| **2026** | ☁️ Cloud + 🤖 AI + 🧠 DSA + 🏗️ System Design |
 
-🤝 Contribute to open source
+---
 
-📈 Maintain a consistent GitHub contribution history
-
-🧠 Currently Working On
-
-💰 BudgetWise AI          ███████████████████░░   90%
-🛒 ShopSphere V2          ████████████████░░░░░   80%
-📚 DSA Preparation        ███████████████░░░░░░   75%
-🤖 AI Projects            █████████████░░░░░░░░   70%
-☁️ AWS & DevOps           ██████████░░░░░░░░░░░   50%
-
-🗺️ Learning Journey
-
-2023  ██████░░░░░░░░░░░░  Started Programming
-
-2024  ███████████░░░░░░░  Web Development
-
-2025  ███████████████░░░  MERN Stack + Data Analytics
-
-2026  ██████████████████  Cloud + AI + DSA + System Design
-
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -437,9 +379,11 @@ Replace the # links above with your actual coding-profile URLs when you have the
 
 </div>
 
-Note: The snake requires a GitHub Action to generate the output branch/file.
+<sub>🐍 Contribution Snake is generated through a GitHub Action.</sub>
 
-🦖 Developer Mode
+---
+
+# 🦖 Developer Mode
 
 <div align="center">
 
@@ -451,24 +395,27 @@ Note: The snake requires a GitHub Action to generate the output branch/file.
 
 </div>
 
-💬 Developer Quote
+---
+
+# 💬 Developer Quote
 
 <div align="center">
 
-🚀 "First, solve the problem. Then, write the code."
+## 🚀 "First, solve the problem. Then, write the code."
 
-— John Johnson
+### — John Johnson
 
 </div>
 
-<img src="./assets/dino.gif" alt="Coding Dino" width="850"/>
+---
 
 <div align="center">
 
-🌟 Thanks for Visiting My Profile!
+## 🌟 Thanks for Visiting My Profile!
 
-⭐ If you like my work, consider starring my repositories.
+### ⭐ If you like my work, consider starring my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C9FF&height=130&section=footer"/>
 
 </div>
+
