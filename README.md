@@ -2,12 +2,24 @@
 
 <!-- ===================== HERO ===================== -->
 
-<h1>👋 Piyush Dubey</h1>
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#1F2937">
 
-<h3>🚀 Full Stack Developer • Data Analytics • AI & Cloud Enthusiast</h3>
+<br/>
+
+<h1>
+<font color="#FFFFFF">👋 Piyush Dubey</font>
+</h1>
+
+<h3>
+<font color="#E5E7EB">
+🚀 Full Stack Developer • Data Analytics • AI & Cloud Enthusiast
+</font>
+</h3>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Data+Analytics+Enthusiast;AI+%26+Cloud+Learner;Open+to+Software+Engineering+Roles"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Data+Analytics+Enthusiast;AI+%26+Cloud+Learner;Open+to+Software+Engineering+Roles"
 alt="Typing Animation"
 />
 
@@ -26,7 +38,7 @@ alt="Typing Animation"
 <br/><br/>
 
 <a href="https://piyushdubey26.github.io/portfolio/about.html">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/piyush-dubey-70183429a/">
@@ -36,6 +48,12 @@ alt="Typing Animation"
 <a href="mailto:piyushdubey447@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -98,17 +116,17 @@ My goal is to become a **strong Software Engineer** capable of designing, develo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/System%20Design-Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-16A34A?style=for-the-badge"/>
 
 </div>
 
