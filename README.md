@@ -2,24 +2,43 @@
 
 <!-- ===================== HERO ===================== -->
 
-<picture>
+<div align="center">
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&text=Piyush%20Dubey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
-  />
+# 👋 Piyush Dubey
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0%3AF3F6F8%2C50%3ADCE5EA%2C100%3AC7D4DC&text=Piyush%20Dubey&fontSize=58&fontColor=17212B&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
-  />
+### 🚀 Full Stack Developer • Data Analytics • AI & Cloud Enthusiast
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&text=Piyush%20Dubey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
-    alt="Piyush Dubey"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Data+Analytics+Enthusiast;AI+%26+Cloud+Learner;Open+to+Software+Engineering+Roles" alt="Typing Animation"/>
 
-</picture>
+<br/><br/>
+
+<a href="https://github.com/piyushdubey26">
+<img src="https://img.shields.io/github/followers/piyushdubey26?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=piyushdubey26&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://piyushdubey26.github.io/portfolio/about.html">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-dubey-70183429a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:piyushdubey447@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Data+Analytics+Enthusiast;AI+%26+Cloud+Learner;Open+to+Software+Engineering+Roles"/>
 
