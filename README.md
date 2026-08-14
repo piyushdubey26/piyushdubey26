@@ -2,11 +2,20 @@
 
 <!-- ===================== HERO ===================== -->
 
-<!-- Dark Mode Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Piyush%20Dubey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17#gh-dark-mode-only"/>
-
-<!-- Light Mode Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F3F6F8,50:DCE5EA,100:C7D4DC&text=Piyush%20Dubey&fontSize=58&fontColor=17212B&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17#gh-light-mode-only"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Piyush%20Dubey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F3F6F8,50:DCE5EA,100:C7D4DC&text=Piyush%20Dubey&fontSize=58&fontColor=17212B&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Piyush%20Dubey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17"
+    alt="Piyush Dubey"
+  />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Data+Analytics+Enthusiast;AI+%26+Cloud+Learner;Open+to+Software+Engineering+Roles"/>
 
@@ -50,12 +59,12 @@ My goal is to become a **strong Software Engineer** capable of designing, develo
 
 ### 🎯 Core Focus
 
-- 💻 Full Stack Web Development
-- 📊 Data Analytics
-- 🤖 AI-powered Applications
-- ☁️ Cloud & DevOps
-- 🧠 DSA & Problem Solving
-- 🗄️ SQL & Database Development
+* 💻 Full Stack Web Development
+* 📊 Data Analytics
+* 🤖 AI-powered Applications
+* ☁️ Cloud & DevOps
+* 🧠 DSA & Problem Solving
+* 🗄️ SQL & Database Development
 
 ---
 
@@ -95,7 +104,7 @@ My goal is to become a **strong Software Engineer** capable of designing, develo
 
 # 🧠 Currently Learning
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -104,53 +113,54 @@ My goal is to become a **strong Software Engineer** capable of designing, develo
 <img src="https://img.shields.io/badge/System%20Design-Learning-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-green?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | Status |
-|:---|:---|:---|:---:|
-| 💰 **BudgetWise AI** | AI-powered personal finance and expense tracking application with smart analytics | MERN • Gemini AI • Chart.js | 🚧 In Progress |
-| 🛒 **ShopSphere Ecommerce** | Full-featured e-commerce platform with authentication, payments and admin workflows | MERN • Redux Toolkit • Razorpay | 🚧 Building |
+| 🚀 Project                        | 📝 Description                                                                          | 🛠️ Tech Stack                       |       Status      |
+| :-------------------------------- | :-------------------------------------------------------------------------------------- | :----------------------------------- | :---------------: |
+| 💰 **BudgetWise AI**              | AI-powered personal finance and expense tracking application with smart analytics       | MERN • Gemini AI • Chart.js          |   🚧 In Progress  |
+| 🛒 **ShopSphere Ecommerce**       | Full-featured e-commerce platform with authentication, payments and admin workflows     | MERN • Redux Toolkit • Razorpay      |    🚧 Building    |
 | 🏥 **Hospital Management System** | Hospital platform covering patients, doctors, appointments, records and admin workflows | PHP • MySQL • JavaScript • Socket.IO | 🚧 In Development |
-| 🏏 **IPL Enterprise Analytics** | Cricket data analysis and visualization project | Python • Pandas • Matplotlib | ✅ Completed |
-| 📈 **Sales Analytics Dashboard** | Business KPI dashboard for analysis and reporting | Excel • Power Query | ✅ Completed |
-| 🗄️ **Ecommerce SQL Project** | Relational database design with practical and advanced SQL queries | MySQL | ✅ Completed |
-| ✈️ **Travel Booking Website** | Travel-booking style application with hotel workflows and admin functionality | HTML • CSS • JavaScript • PHP | 🚧 Project |
+| 🏏 **IPL Enterprise Analytics**   | Cricket data analysis and visualization project                                         | Python • Pandas • Matplotlib         |    ✅ Completed    |
+| 📈 **Sales Analytics Dashboard**  | Business KPI dashboard for analysis and reporting                                       | Excel • Power Query                  |    ✅ Completed    |
+| 🗄️ **Ecommerce SQL Project**     | Relational database design with practical and advanced SQL queries                      | MySQL                                |    ✅ Completed    |
+| ✈️ **Travel Booking Website**     | Travel-booking style application with hotel workflows and admin functionality           | HTML • CSS • JavaScript • PHP        |     🚧 Project    |
 
 ---
 
 # 💼 Experience
 
 ### 🏢 Full Stack MERN Training
-**BBD University × GRAS Tech**  
+
+**BBD University × GRAS Tech**
 📅 2025
 
-- Developed full-stack MERN applications
-- Built REST APIs
-- Implemented JWT-based authentication
-- Designed MongoDB database structures
-- Worked with deployment and production workflows
+* Developed full-stack MERN applications
+* Built REST APIs
+* Implemented JWT-based authentication
+* Designed MongoDB database structures
+* Worked with deployment and production workflows
 
 ### 📊 Data Analytics Experience
 
-- Data cleaning and preparation
-- Excel dashboards
-- SQL analysis
-- Business insights
-- Data reporting and visualization
+* Data cleaning and preparation
+* Excel dashboards
+* SQL analysis
+* Business insights
+* Data reporting and visualization
 
 ### 🏏 IPL Operations & Management
 
 **Lucknow IPL Season**
 
-- Team management
-- Event operations
-- Customer coordination
-- Ticket management
-- Leadership and on-ground execution
+* Team management
+* Event operations
+* Customer coordination
+* Ticket management
+* Leadership and on-ground execution
 
 ---
 
@@ -176,25 +186,25 @@ My goal is to become a **strong Software Engineer** capable of designing, develo
 
 # 🎯 2026 Goals
 
-- 🎯 Crack a strong Software Engineering role
-- 🚀 Complete and improve **BudgetWise AI**
-- 🛒 Build **ShopSphere V2**
-- 🧠 Strengthen DSA and problem solving
-- ☁️ Learn AWS, Docker and Kubernetes
-- 🏗️ Understand System Design fundamentals
-- 🤖 Build practical AI-powered applications
-- 🤝 Contribute to open source
-- 📈 Maintain a consistent GitHub contribution history
+* 🎯 Crack a strong Software Engineering role
+* 🚀 Complete and improve **BudgetWise AI**
+* 🛒 Build **ShopSphere V2**
+* 🧠 Strengthen DSA and problem solving
+* ☁️ Learn AWS, Docker and Kubernetes
+* 🏗️ Understand System Design fundamentals
+* 🤖 Build practical AI-powered applications
+* 🤝 Contribute to open source
+* 📈 Maintain a consistent GitHub contribution history
 
 ---
 
 # 📚 Learning Journey
 
-| Year | Focus |
-|:---:|:---|
-| **2023** | 🌱 Started Programming |
-| **2024** | 🌐 Web Development |
-| **2025** | ⚛️ MERN Stack + 📊 Data Analytics |
+|   Year   | Focus                                         |
+| :------: | :-------------------------------------------- |
+| **2023** | 🌱 Started Programming                        |
+| **2024** | 🌐 Web Development                            |
+| **2025** | ⚛️ MERN Stack + 📊 Data Analytics             |
 | **2026** | ☁️ Cloud + 🤖 AI + 🧠 DSA + 🏗️ System Design |
 
 ---
