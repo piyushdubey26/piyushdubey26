@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="./assets/waves-banner.jpg" width="100%" alt="Piyush Dubey Header Banner" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
+<a href="https://github.com/piyushdubey26">
+  <img src="./assets/hero-banner.svg" width="100%" alt="Piyush Dubey — AI/ML Engineer &amp; Software Developer" />
+</a>
 
 <br/>
-<br/>
-
-# ⚡ Piyush Dubey
-
-### 🚀 AI/ML Engineer • 📊 Data Analyst • 💻 Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI%2FML+Systems;NLP+%26+Geospatial+Vector+Search+Engines;Data+Pipelines+%26+Business+Intelligence;Full-Stack+Web+Applications+%26+APIs;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+SQL" alt="Typing SVG" />
-
 <br/>
 
 <p align="center">
@@ -29,10 +23,6 @@
   <a href="https://komarev.com/ghpvc/?username=piyushdubey26&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=piyushdubey26&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-</p>
-
-<p align="center">
-  <em>"Building intelligent systems, data-driven applications, and production-ready software."</em>
 </p>
 
 </div>
